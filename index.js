@@ -30,7 +30,7 @@ function add2(n) {
 
 function add2(n) {
   var two = 2
-    return n + two
+    return n + two;
 }
 
 var funkyFunction = function() {
